@@ -1,0 +1,59 @@
+body {
+    background-image: url(../image/fondo3.png);
+}
+
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+h2 {
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+}
+
+nav {
+    font-family: 'Fjalla One', sans-serif;
+    color: rgb(12, 12, 12) !important;
+}
+
+p {
+    font-family: 'Bitter', serif;
+}
+
+h3 {
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+    color: white!important;
+}
+
+h5 {
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+}
+
+a {
+    font-family: 'Fjalla One', sans-serif;
+    color: rgb(14, 13, 13)!important;
+}
+
+.footer_logo {
+    width: 70px;
+    height: 70px;
+}
+
+.footer_imagen {
+    width: 30px;
+    height: 30px;
+}
+
+.imagen_productos {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    margin: 5px;
+}
